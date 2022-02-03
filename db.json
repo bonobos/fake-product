@@ -1,0 +1,337 @@
+{
+  "products": [
+    {
+      "name": "Stretch Washed Chino Shorts",
+      "slug": "stretch-washed-chino-shorts",
+      "sku": "SHORT00064",
+      "id": "1",
+      "url": "/products/stretch-washed-chino-shorts?color=sea%20stacks",
+      "final_sale": false,
+      "meta_description": "Our most popular shorts with the most customization. Choose your inseam length, color, waist size and even fit option! Fast, free shipping.",
+      "meta_title": "Stretch Washed Chino Shorts",
+      "short_description": "The same great fit of our chinos in the perfect pair of shorts.",
+      "options": [
+          {
+              "name": "color",
+              "presentation": "Color",
+              "short_presentation": "Color",
+              "values": [
+                  {
+                      "name": "grey",
+                      "presentation": "Grey",
+                      "purchasable": true,
+                      "valid_variant": true,
+                      "url": "https://bonobos-prod-s3.imgix.net/products/232150/original/SHORT_CHINO-SHORT_27768-GY437-32-5_swatch.jpg?1643838344=",
+                      "price": 39,
+                      "on_sale": true,
+                      "final_sale": true
+                  },
+                  {
+                      "name": "khaki",
+                      "presentation": "Khaki",
+                      "purchasable": true,
+                      "valid_variant": true,
+                      "url": "https://bonobos-prod-s3.imgix.net/products/232176/original/SHORT_CHINO-SHORT_27768-KH087-32-5_swatch.jpg?1643838344=",
+                      "price": 69,
+                      "on_sale": true,
+                      "final_sale": false
+                  },
+                  {
+                      "name": "navy",
+                      "presentation": "Navy",
+                      "purchasable": true,
+                      "valid_variant": true,
+                      "url": "https://bonobos-prod-s3.imgix.net/products/232099/original/SHORT_CHINO-SHORT_27768-BL007-32-5_swatch.jpg?1643838344=",
+                      "price": 39,
+                      "on_sale": true,
+                      "final_sale": true
+                  }
+              ]
+          },
+          {
+              "name": "short-fit",
+              "presentation": "Short Fit",
+              "short_presentation": "Fit",
+              "values": [
+                  {
+                      "name": "slim",
+                      "presentation": "Slim",
+                      "purchasable": false,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "standard",
+                      "presentation": "Standard",
+                      "purchasable": false,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "athletic",
+                      "presentation": "Athletic",
+                      "purchasable": true,
+                      "valid_variant": true
+                  }
+              ]
+          },
+          {
+              "name": "short-waist",
+              "presentation": "Short Waist",
+              "short_presentation": "Waist",
+              "values": [
+                  {
+                      "name": "28",
+                      "presentation": "28",
+                      "purchasable": false,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "29",
+                      "presentation": "29",
+                      "purchasable": false,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "30",
+                      "presentation": "30",
+                      "purchasable": false,
+                      "valid_variant": true
+                  }
+              ]
+          },
+          {
+              "name": "short-length",
+              "presentation": "Short Length",
+              "short_presentation": "Length",
+              "values": [
+                  {
+                      "name": "5 in",
+                      "presentation": "5 In",
+                      "purchasable": false,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "7 in",
+                      "presentation": "7 In",
+                      "purchasable": false,
+                      "valid_variant": true
+                  }
+              ]
+          }
+      ],
+      "variant": null,
+      "images": [
+          "https://bonobos-prod-s3.imgix.net/products/217723/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_1.jpg?1642751178=",
+          "https://bonobos-prod-s3.imgix.net/products/217724/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_3_hover.jpg?1642751178="
+      ],
+      "properties": {
+          "Detailings": [
+              "The stretch version of our classic washed chino.",
+              "Signature curved waistband and contrast pocket liner.",
+              "Italian slide snap at center front closure.",
+              "Buttons at back pockets."
+          ],
+          "Fabric": [
+              "98% Cotton | 2% Lycra; Stretch Cotton Twill"
+          ],
+          "Model Details": [
+              "Model is 6'2\" with a 32\" waist, and is wearing a size 32\" in Standard Fit."
+          ],
+          "country_of_origin": [
+              "Imported"
+          ],
+          "Care": [
+              "Machine wash cold with like colors | Tumble dry low | Cool iron if needed | Do Not Bleach"
+          ]
+      },
+      "price": {
+          "price_numeric": 69,
+          "price": "$69",
+          "full_price": "$79",
+          "on_sale": true
+      },
+      "is_gift_card": false,
+      "is_new_product": false,
+      "is_new_color": false,
+      "selected_options": {
+          "color": "sea stacks"
+      },
+      "classification_key": "7c6cb317-d050-478e-b63a-6bab32e44306",
+      "analytics": {
+          "selected_variant": {
+              "name": "Stretch Washed Chino Shorts",
+              "sku": "27816-BOY73-32X9",
+              "limited_quantity": null,
+              "in_stock": true,
+              "final_sale": false
+          }
+      },
+      "is_digital": false
+    },
+    {
+      "name": "Riviera Short Sleeve Shirt",
+      "slug": "riviera-short-sleeve-shirt",
+      "sku": "CSHRT00481",
+      "id": "2",
+      "url": "/products/riviera-short-sleeve-shirt?shirt-size=xs&shirt-length=reg&color=chambray%20light%20wash",
+      "final_sale": true,
+      "meta_description": "The Riviera is our most popular shirt. With so many colors, patterns and prints, you can find one for virtually any occasion. Perfect for parties, work, events and every day. Free shipping!",
+      "meta_title": "Riviera Short Sleeve Shirt",
+      "short_description": "A bestseller for a reason. Original prints, bold colors, a better fit.",
+      "options": [
+          {
+              "name": "color",
+              "presentation": "Color",
+              "short_presentation": "Color",
+              "values": [
+                  {
+                      "name": "chambray blue",
+                      "presentation": "Chambray Blue",
+                      "purchasable": true,
+                      "valid_variant": true,
+                      "url": "https://bonobos-prod-s3.imgix.net/products/128811/original/Casual-Shirts_Short-Sleeve-Shirts_16705-BLF71_swatch.jpg?1636616847=",
+                      "price": 18,
+                      "on_sale": true,
+                      "final_sale": true
+                  },
+                  {
+                      "name": "solid white",
+                      "presentation": "Solid White",
+                      "purchasable": true,
+                      "valid_variant": true,
+                      "url": "https://bonobos-prod-s3.imgix.net/products/63060/original/CASUALSHIRT_14142_WT173_thumb1.jpg?1602553193=",
+                      "price": 18,
+                      "on_sale": true,
+                      "final_sale": true
+                  },
+                  {
+                      "name": "chambray light wash",
+                      "presentation": "Chambray Light Wash",
+                      "purchasable": true,
+                      "valid_variant": true,
+                      "url": "https://bonobos-prod-s3.imgix.net/products/128813/original/Casual-Shirts_Short-Sleeve-Shirts_18047-BLQ36_swatch.jpg?1636616847=",
+                      "price": 18,
+                      "on_sale": true,
+                      "final_sale": true
+                  }
+              ]
+          },
+          {
+              "name": "shirt-size",
+              "presentation": "Shirt Size",
+              "short_presentation": "Size",
+              "values": [
+                  {
+                      "name": "xs",
+                      "presentation": "XS",
+                      "purchasable": true,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "s",
+                      "presentation": "S",
+                      "purchasable": true,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "l",
+                      "presentation": "L",
+                      "purchasable": false,
+                      "valid_variant": true
+                  }
+              ]
+          },
+          {
+              "name": "shirt-fit",
+              "presentation": "Shirt Fit",
+              "short_presentation": "Fit",
+              "values": [
+                  {
+                      "name": "tailored",
+                      "presentation": "Tailored",
+                      "purchasable": false,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "slim",
+                      "presentation": "Slim",
+                      "purchasable": true,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "standard",
+                      "presentation": "Standard",
+                      "purchasable": true,
+                      "valid_variant": true
+                  }
+              ]
+          },
+          {
+              "name": "shirt-length",
+              "presentation": "Shirt Length",
+              "short_presentation": "Length",
+              "values": [
+                  {
+                      "name": "reg",
+                      "presentation": "Reg",
+                      "purchasable": true,
+                      "valid_variant": true
+                  },
+                  {
+                      "name": "short",
+                      "presentation": "Short",
+                      "purchasable": true,
+                      "valid_variant": true
+                  }
+              ]
+          }
+      ],
+      "variant": null,
+      "images": [
+          "https://bonobos-prod-s3.imgix.net/products/128805/original/Casual-Shirts_Short-Sleeve-Shirts_18047-BLQ36_20.jpg?1636616847=",
+          "https://bonobos-prod-s3.imgix.net/products/128806/original/Casual-Shirts_Short-Sleeve-Shirts_18047-BLQ36_40_category-outfitter.jpg?1636616847="
+      ],
+      "properties": {
+          "country_of_origin": [
+              "Imported"
+          ],
+          "Model Details": [
+              "Model is 6'2\" with a 40\" chest, and is wearing a M in Slim Fit and Reg Length."
+          ],
+          "Fabric": [
+              "100% Cotton"
+          ],
+          "Care": [
+              "Machine wash cold with like colors | Tumble dry low | Non chlorine bleach | Warm iron if needed"
+          ],
+          "Detailings": [
+              "Short-sleeve body | Select colors offer chest pocket & button-down collar"
+          ]
+      },
+      "price": {
+          "price_numeric": 18,
+          "price": "$18",
+          "full_price": "$78",
+          "on_sale": true
+      },
+      "is_gift_card": false,
+      "is_new_product": false,
+      "is_new_color": false,
+      "selected_options": {
+          "shirt-size": "xs",
+          "shirt-length": "reg",
+          "color": "chambray light wash"
+      },
+      "classification_key": "3cdd88c1-0c8d-4b51-be19-af923840410a",
+      "analytics": {
+          "selected_variant": {
+              "name": "Riviera Short Sleeve Shirt",
+              "sku": "18047-BLQ36-XSXREG",
+              "limited_quantity": null,
+              "in_stock": true,
+              "final_sale": true
+          }
+      },
+      "is_digital": false
+    }
+  ]
+}
