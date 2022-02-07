@@ -1,15 +1,11 @@
 {
   "products": [
     {
-      "name": "Stretch Washed Chino Shorts",
-      "slug": "stretch-washed-chino-shorts",
+      "title": "Stretch Washed Chino Shorts",
       "sku": "SHORT00064",
       "id": "1",
       "url": "/products/stretch-washed-chino-shorts?color=sea%20stacks",
-      "final_sale": false,
-      "meta_description": "Our most popular shorts with the most customization. Choose your inseam length, color, waist size and even fit option! Fast, free shipping.",
-      "meta_title": "Stretch Washed Chino Shorts",
-      "short_description": "The same great fit of our chinos in the perfect pair of shorts.",
+      "description": "Our most popular shorts with the most customization. Choose your inseam length, color, waist size and even fit option! Fast, free shipping.",
       "options": [
           {
               "name": "color",
@@ -19,32 +15,17 @@
                   {
                       "name": "grey",
                       "presentation": "Grey",
-                      "purchasable": true,
-                      "valid_variant": true,
-                      "url": "https://bonobos-prod-s3.imgix.net/products/232150/original/SHORT_CHINO-SHORT_27768-GY437-32-5_swatch.jpg?1643838344=",
-                      "price": 39,
-                      "on_sale": true,
-                      "final_sale": true
+                      "url": "https://bonobos-prod-s3.imgix.net/products/232150/original/SHORT_CHINO-SHORT_27768-GY437-32-5_swatch.jpg?1643838344="
                   },
                   {
                       "name": "khaki",
                       "presentation": "Khaki",
-                      "purchasable": true,
-                      "valid_variant": true,
-                      "url": "https://bonobos-prod-s3.imgix.net/products/232176/original/SHORT_CHINO-SHORT_27768-KH087-32-5_swatch.jpg?1643838344=",
-                      "price": 69,
-                      "on_sale": true,
-                      "final_sale": false
+                      "url": "https://bonobos-prod-s3.imgix.net/products/232176/original/SHORT_CHINO-SHORT_27768-KH087-32-5_swatch.jpg?1643838344="
                   },
                   {
                       "name": "navy",
                       "presentation": "Navy",
-                      "purchasable": true,
-                      "valid_variant": true,
-                      "url": "https://bonobos-prod-s3.imgix.net/products/232099/original/SHORT_CHINO-SHORT_27768-BL007-32-5_swatch.jpg?1643838344=",
-                      "price": 39,
-                      "on_sale": true,
-                      "final_sale": true
+                      "url": "https://bonobos-prod-s3.imgix.net/products/232099/original/SHORT_CHINO-SHORT_27768-BL007-32-5_swatch.jpg?1643838344="
                   }
               ]
           },
@@ -55,21 +36,15 @@
               "values": [
                   {
                       "name": "slim",
-                      "presentation": "Slim",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "Slim"
                   },
                   {
                       "name": "standard",
-                      "presentation": "Standard",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "Standard"
                   },
                   {
                       "name": "athletic",
-                      "presentation": "Athletic",
-                      "purchasable": true,
-                      "valid_variant": true
+                      "presentation": "Athletic"
                   }
               ]
           },
@@ -80,21 +55,15 @@
               "values": [
                   {
                       "name": "28",
-                      "presentation": "28",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "28"
                   },
                   {
                       "name": "29",
-                      "presentation": "29",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "29"
                   },
                   {
                       "name": "30",
-                      "presentation": "30",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "30"
                   }
               ]
           },
@@ -105,20 +74,15 @@
               "values": [
                   {
                       "name": "5 in",
-                      "presentation": "5 In",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "5 In"
                   },
                   {
                       "name": "7 in",
-                      "presentation": "7 In",
-                      "purchasable": false,
-                      "valid_variant": true
+                      "presentation": "7 In"
                   }
               ]
           }
       ],
-      "variant": null,
       "images": [
           "https://bonobos-prod-s3.imgix.net/products/217723/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_1.jpg?1642751178=",
           "https://bonobos-prod-s3.imgix.net/products/217724/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_3_hover.jpg?1642751178="
@@ -149,45 +113,22 @@
           "full_price": "$79",
           "on_sale": true
       },
-      "is_gift_card": false,
-      "is_new_product": false,
-      "is_new_color": false,
       "selected_options": {
-          "color": "sea stacks"
-      },
-      "classification_key": "7c6cb317-d050-478e-b63a-6bab32e44306",
-      "analytics": {
-          "selected_variant": {
-              "name": "Stretch Washed Chino Shorts",
-              "sku": "27816-BOY73-32X9",
-              "limited_quantity": null,
-              "in_stock": true,
-              "final_sale": false
-          }
-      },
-      "is_digital": false
+          "color": "grey"
+      }
     }
   ],
   "carts": [
     {
       "id": "1",
-      "items": [
-        {
-          "1": 1,
-          "4": 3
-        }
+      "items": [ 
+        { 
+          "productId": 1,
+          "quantity": 2
+        }   
       ],
-      "total": 100
-    },
-    {
-      "id": "2",
-      "items": [
-        {
-          "2": 4,
-          "5": 2
-        }
-      ],
-      "total": 500
+      "itemsQuantity": 2,
+      "total": 138
     }
   ]
 }
