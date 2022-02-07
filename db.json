@@ -116,6 +116,135 @@
       "selected_options": {
           "color": "grey"
       }
+    },
+    {
+        "title": "Original Stretch Washed Chino",
+        "sku": "PANTS00124",
+        "id": "2",
+        "url": "/products/stretch-washed-chino-1?color=the%20khakis",
+        "description": "Our most popular Chinos, available in the most color options. Perfect for work, parties, and business occasions. Available in Athletic, Slim, and Straight fits. Free shipping in the U.S.",
+        "options": [
+            {
+                "name": "color",
+                "presentation": "Color",
+                "short_presentation": "Color",
+                "values": [
+                    {
+                        "name": "jet blues",
+                        "presentation": "Jet Blues",
+                        "url": "https://bonobos-prod-s3.imgix.net/products/74818/original/Pants_Stretch-Chino_14870-BL007_swatch.jpg?1602553193=",
+                        "price": 99
+                    },
+                    {
+                        "name": "bright white",
+                        "presentation": "Bright White",
+                        "url": "https://bonobos-prod-s3.imgix.net/products/217119/original/PANT_CHINO-PANT_26131-WT614_swatch.jpg?1642751178=",
+                        "price": 99
+                    },
+                    {
+                        "name": "grey dogs",
+                        "presentation": "Grey Dogs",
+                        "url": "https://bonobos-prod-s3.imgix.net/products/74834/original/Pants_Stretch-Chino_14870-GY003_swatch.jpg?1602553193=",
+                        "price": 99
+                    }
+                ]
+            },
+            {
+                "name": "pant-waist",
+                "presentation": "Pant Waist",
+                "short_presentation": "Waist",
+                "values": [
+                    {
+                        "name": "28",
+                        "presentation": "28"
+                    },
+                    {
+                        "name": "29",
+                        "presentation": "29"
+                    },
+                    {
+                        "name": "30",
+                        "presentation": "30"
+                    }
+                ]
+            },
+            {
+                "name": "pant-fit",
+                "presentation": "Pant Fit",
+                "short_presentation": "Fit",
+                "values": [
+                    {
+                        "name": "skinny",
+                        "presentation": "Skinny"
+                    },
+                    {
+                        "name": "tailored",
+                        "presentation": "Tailored"
+                    },
+                    {
+                        "name": "slim",
+                        "presentation": "Slim"
+                    }
+                ]
+            },
+            {
+                "name": "pant-length",
+                "presentation": "Pant Length",
+                "short_presentation": "Length",
+                "values": [
+                    {
+                        "name": "28",
+                        "presentation": "28"
+                    },
+                    {
+                        "name": "30",
+                        "presentation": "30"
+                    },
+                    {
+                        "name": "32",
+                        "presentation": "32"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            "https://bonobos-prod-s3.imgix.net/products/205382/original/PANT_CHINO-PANT_14870-KH087_1_category.jpg?1642751157=",
+            "https://bonobos-prod-s3.imgix.net/products/205383/original/PANT_CHINO-PANT_14870-KH087_2.jpg?1642751157=",
+            "https://bonobos-prod-s3.imgix.net/products/205384/original/PANT_CHINO-PANT_14870-KH087_3_hover.jpg?1642751157="
+        ],
+        "properties": {
+            "country_of_origin": [
+                "Imported"
+            ],
+            "Fabric": [
+                "98% Cotton | 2% Lycra; Stretch Cotton Twill"
+            ],
+            "novelty_badge": [
+                "Icon Status"
+            ],
+            "Model Details": [
+                "Model is 6'2\" and wearing a 32x32 in Slim",
+                "Models are 6'2\" wearing 32x32 Slim and 6'6\" wearing 42x32 Straight"
+            ],
+            "Detailings": [
+                "All-purpose cotton chinos with 2% stretch for extra comfort and mobility.",
+                "Signature curved waistband and Italian slide snap at center front closure",
+                "Buttons at back pockets",
+                "Contrast interior liner not exposed in back pockets."
+            ],
+            "Care": [
+                "Machine Wash Cold with Like Colors | Tumble Dry Low | Do Not Bleach | Cool iron if needed"
+            ]
+        },
+        "price": {
+            "price_numeric": 99,
+            "price": "$99",
+            "full_price": "$99",
+            "on_sale": false
+        },
+        "selected_options": {
+            "color": "the khakis"
+        }
     }
   ],
   "carts": [
