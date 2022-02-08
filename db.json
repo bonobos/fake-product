@@ -1,127 +1,125 @@
 {
   "products": [
     {
-      "title": "Stretch Washed Chino Shorts",
-      "sku": "SHORT00064",
-      "id": "1",
-      "url": "/products/stretch-washed-chino-shorts?color=sea%20stacks",
-      "description": "Our most popular shorts with the most customization. Choose your inseam length, color, waist size and even fit option! Fast, free shipping.",
-      "options": [
-          {
-              "name": "color",
-              "presentation": "Color",
-              "short_presentation": "Color",
-              "values": [
-                  {
-                      "name": "grey",
-                      "presentation": "Grey",
-                      "url": "https://bonobos-prod-s3.imgix.net/products/232150/original/SHORT_CHINO-SHORT_27768-GY437-32-5_swatch.jpg?1643838344="
-                  },
-                  {
-                      "name": "khaki",
-                      "presentation": "Khaki",
-                      "url": "https://bonobos-prod-s3.imgix.net/products/232176/original/SHORT_CHINO-SHORT_27768-KH087-32-5_swatch.jpg?1643838344="
-                  },
-                  {
-                      "name": "navy",
-                      "presentation": "Navy",
-                      "url": "https://bonobos-prod-s3.imgix.net/products/232099/original/SHORT_CHINO-SHORT_27768-BL007-32-5_swatch.jpg?1643838344="
-                  }
-              ]
-          },
-          {
-              "name": "short-fit",
-              "presentation": "Short Fit",
-              "short_presentation": "Fit",
-              "values": [
-                  {
-                      "name": "slim",
-                      "presentation": "Slim"
-                  },
-                  {
-                      "name": "standard",
-                      "presentation": "Standard"
-                  },
-                  {
-                      "name": "athletic",
-                      "presentation": "Athletic"
-                  }
-              ]
-          },
-          {
-              "name": "short-waist",
-              "presentation": "Short Waist",
-              "short_presentation": "Waist",
-              "values": [
-                  {
-                      "name": "28",
-                      "presentation": "28"
-                  },
-                  {
-                      "name": "29",
-                      "presentation": "29"
-                  },
-                  {
-                      "name": "30",
-                      "presentation": "30"
-                  }
-              ]
-          },
-          {
-              "name": "short-length",
-              "presentation": "Short Length",
-              "short_presentation": "Length",
-              "values": [
-                  {
-                      "name": "5 in",
-                      "presentation": "5 In"
-                  },
-                  {
-                      "name": "7 in",
-                      "presentation": "7 In"
-                  }
-              ]
-          }
-      ],
-      "images": [
-          "https://bonobos-prod-s3.imgix.net/products/217723/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_1.jpg?1642751178=",
-          "https://bonobos-prod-s3.imgix.net/products/217724/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_3_hover.jpg?1642751178="
-      ],
-      "properties": {
-          "Detailings": [
-              "The stretch version of our classic washed chino.",
-              "Signature curved waistband and contrast pocket liner.",
-              "Italian slide snap at center front closure.",
-              "Buttons at back pockets."
-          ],
-          "Fabric": [
-              "98% Cotton | 2% Lycra; Stretch Cotton Twill"
-          ],
-          "Model Details": [
-              "Model is 6'2\" with a 32\" waist, and is wearing a size 32\" in Standard Fit."
-          ],
-          "country_of_origin": [
-              "Imported"
-          ],
-          "Care": [
-              "Machine wash cold with like colors | Tumble dry low | Cool iron if needed | Do Not Bleach"
-          ]
-      },
-      "price": {
-          "price_numeric": 69,
-          "price": "$69",
-          "full_price": "$79",
-          "on_sale": true
-      },
-      "selected_options": {
-          "color": "grey"
-      }
+        "name": "Stretch Washed Chino Shorts",
+        "sku": "SHORT00064",
+        "id": "1",
+        "description": "Our most popular shorts with the most customization. Choose your inseam length, color, waist size and even fit option! Fast, free shipping.",
+        "options": [
+            {
+                "name": "color",
+                "presentation": "Color",
+                "short_presentation": "Color",
+                "values": [
+                    {
+                        "name": "grey",
+                        "presentation": "Grey",
+                        "url": "https://bonobos-prod-s3.imgix.net/products/232150/original/SHORT_CHINO-SHORT_27768-GY437-32-5_swatch.jpg?1643838344="
+                    },
+                    {
+                        "name": "khaki",
+                        "presentation": "Khaki",
+                        "url": "https://bonobos-prod-s3.imgix.net/products/232176/original/SHORT_CHINO-SHORT_27768-KH087-32-5_swatch.jpg?1643838344="
+                    },
+                    {
+                        "name": "navy",
+                        "presentation": "Navy",
+                        "url": "https://bonobos-prod-s3.imgix.net/products/232099/original/SHORT_CHINO-SHORT_27768-BL007-32-5_swatch.jpg?1643838344="
+                    }
+                ]
+            },
+            {
+                "name": "short-fit",
+                "presentation": "Short Fit",
+                "short_presentation": "Fit",
+                "values": [
+                    {
+                        "name": "slim",
+                        "presentation": "Slim"
+                    },
+                    {
+                        "name": "standard",
+                        "presentation": "Standard"
+                    },
+                    {
+                        "name": "athletic",
+                        "presentation": "Athletic"
+                    }
+                ]
+            },
+            {
+                "name": "short-waist",
+                "presentation": "Short Waist",
+                "short_presentation": "Waist",
+                "values": [
+                    {
+                        "name": "28",
+                        "presentation": "28"
+                    },
+                    {
+                        "name": "29",
+                        "presentation": "29"
+                    },
+                    {
+                        "name": "30",
+                        "presentation": "30"
+                    }
+                ]
+            },
+            {
+                "name": "short-length",
+                "presentation": "Short Length",
+                "short_presentation": "Length",
+                "values": [
+                    {
+                        "name": "5 in",
+                        "presentation": "5 In"
+                    },
+                    {
+                        "name": "7 in",
+                        "presentation": "7 In"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            "https://bonobos-prod-s3.imgix.net/products/217723/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_1.jpg?1642751178=",
+            "https://bonobos-prod-s3.imgix.net/products/217724/original/SHORT_CHINO-SHORT_27814-BOY73-32-9_3_hover.jpg?1642751178="
+        ],
+        "properties": {
+            "Detailings": [
+                "The stretch version of our classic washed chino.",
+                "Signature curved waistband and contrast pocket liner.",
+                "Italian slide snap at center front closure.",
+                "Buttons at back pockets."
+            ],
+            "Fabric": [
+                "98% Cotton | 2% Lycra; Stretch Cotton Twill"
+            ],
+            "Model Details": [
+                "Model is 6'2\" with a 32\" waist, and is wearing a size 32\" in Standard Fit."
+            ],
+            "country_of_origin": [
+                "Imported"
+            ],
+            "Care": [
+                "Machine wash cold with like colors | Tumble dry low | Cool iron if needed | Do Not Bleach"
+            ]
+        },
+        "price": {
+            "price_numeric": 69,
+            "price": "$69",
+            "full_price": "$79",
+            "on_sale": true
+        },
+        "selected_options": {
+            "color": "grey"
+        }
     },
     {
-        "title": "Original Stretch Washed Chino",
+        "name": "Original Stretch Washed Chino",
         "sku": "PANTS00124",
         "id": "2",
-        "url": "/products/stretch-washed-chino-1?color=the%20khakis",
         "description": "Our most popular Chinos, available in the most color options. Perfect for work, parties, and business occasions. Available in Athletic, Slim, and Straight fits. Free shipping in the U.S.",
         "options": [
             {
