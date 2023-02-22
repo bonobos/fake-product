@@ -103,7 +103,7 @@
             "price": "$69",
             "full_price": "$79",
             "on_sale": true
-        },
+        }
     },
     {
         "name": "Original Stretch Washed Chino",
@@ -217,7 +217,7 @@
             "price": "$99",
             "full_price": "$99",
             "on_sale": false
-        },
+        }
     }
   ],
   "carts": [
