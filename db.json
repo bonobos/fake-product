@@ -2,36 +2,30 @@
   "products": [
     {
         "name": "Stretch Washed Chino Shorts",
-        "sku": "SHORT00064",
         "id": "1",
         "description": "Our most popular shorts with the most customization. Choose your inseam length, color, waist size and even fit option! Fast, free shipping.",
         "options": [
             {
                 "name": "color",
                 "presentation": "Color",
-                "short_presentation": "Color",
                 "values": [
                     {
                         "name": "grey",
                         "presentation": "Grey",
-                        "url": "https://bonobos-prod-s3.imgix.net/products/232150/original/SHORT_CHINO-SHORT_27768-GY437-32-5_swatch.jpg?1643838344="
                     },
                     {
                         "name": "khaki",
                         "presentation": "Khaki",
-                        "url": "https://bonobos-prod-s3.imgix.net/products/232176/original/SHORT_CHINO-SHORT_27768-KH087-32-5_swatch.jpg?1643838344="
                     },
                     {
                         "name": "navy",
                         "presentation": "Navy",
-                        "url": "https://bonobos-prod-s3.imgix.net/products/232099/original/SHORT_CHINO-SHORT_27768-BL007-32-5_swatch.jpg?1643838344="
                     }
                 ]
             },
             {
                 "name": "short-fit",
                 "presentation": "Short Fit",
-                "short_presentation": "Fit",
                 "values": [
                     {
                         "name": "slim",
@@ -50,7 +44,6 @@
             {
                 "name": "short-waist",
                 "presentation": "Short Waist",
-                "short_presentation": "Waist",
                 "values": [
                     {
                         "name": "28",
@@ -69,7 +62,6 @@
             {
                 "name": "short-length",
                 "presentation": "Short Length",
-                "short_presentation": "Length",
                 "values": [
                     {
                         "name": "5 in",
@@ -112,45 +104,33 @@
             "full_price": "$79",
             "on_sale": true
         },
-        "selected_options": {
-            "color": "grey"
-        }
     },
     {
         "name": "Original Stretch Washed Chino",
-        "sku": "PANTS00124",
         "id": "2",
         "description": "Our most popular Chinos, available in the most color options. Perfect for work, parties, and business occasions. Available in Athletic, Slim, and Straight fits. Free shipping in the U.S.",
         "options": [
             {
                 "name": "color",
                 "presentation": "Color",
-                "short_presentation": "Color",
                 "values": [
                     {
                         "name": "jet blues",
                         "presentation": "Jet Blues",
-                        "url": "https://bonobos-prod-s3.imgix.net/products/74818/original/Pants_Stretch-Chino_14870-BL007_swatch.jpg?1602553193=",
-                        "price": 99
                     },
                     {
                         "name": "bright white",
                         "presentation": "Bright White",
-                        "url": "https://bonobos-prod-s3.imgix.net/products/217119/original/PANT_CHINO-PANT_26131-WT614_swatch.jpg?1642751178=",
-                        "price": 99
                     },
                     {
                         "name": "grey dogs",
                         "presentation": "Grey Dogs",
-                        "url": "https://bonobos-prod-s3.imgix.net/products/74834/original/Pants_Stretch-Chino_14870-GY003_swatch.jpg?1602553193=",
-                        "price": 99
                     }
                 ]
             },
             {
                 "name": "pant-waist",
                 "presentation": "Pant Waist",
-                "short_presentation": "Waist",
                 "values": [
                     {
                         "name": "28",
@@ -169,7 +149,6 @@
             {
                 "name": "pant-fit",
                 "presentation": "Pant Fit",
-                "short_presentation": "Fit",
                 "values": [
                     {
                         "name": "skinny",
@@ -188,7 +167,6 @@
             {
                 "name": "pant-length",
                 "presentation": "Pant Length",
-                "short_presentation": "Length",
                 "values": [
                     {
                         "name": "28",
@@ -240,9 +218,6 @@
             "full_price": "$99",
             "on_sale": false
         },
-        "selected_options": {
-            "color": "the khakis"
-        }
     }
   ],
   "carts": [
