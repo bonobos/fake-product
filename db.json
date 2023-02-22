@@ -11,15 +11,15 @@
                 "values": [
                     {
                         "name": "grey",
-                        "presentation": "Grey",
+                        "presentation": "Grey"
                     },
                     {
                         "name": "khaki",
-                        "presentation": "Khaki",
+                        "presentation": "Khaki"
                     },
                     {
                         "name": "navy",
-                        "presentation": "Navy",
+                        "presentation": "Navy"
                     }
                 ]
             },
@@ -116,15 +116,15 @@
                 "values": [
                     {
                         "name": "jet blues",
-                        "presentation": "Jet Blues",
+                        "presentation": "Jet Blues"
                     },
                     {
                         "name": "bright white",
-                        "presentation": "Bright White",
+                        "presentation": "Bright White"
                     },
                     {
                         "name": "grey dogs",
-                        "presentation": "Grey Dogs",
+                        "presentation": "Grey Dogs"
                     }
                 ]
             },
