@@ -88,18 +88,11 @@
             "Fabric": [
                 "98% Cotton | 2% Lycra; Stretch Cotton Twill"
             ],
-            "Model Details": [
-                "Model is 6'2\" with a 32\" waist, and is wearing a size 32\" in Standard Fit."
-            ],
-            "country_of_origin": [
-                "Imported"
-            ],
             "Care": [
                 "Machine wash cold with like colors | Tumble dry low | Cool iron if needed | Do Not Bleach"
             ]
         },
         "price": {
-            "price_numeric": 69,
             "price": "$69",
             "full_price": "$79",
             "on_sale": true
@@ -189,18 +182,8 @@
             "https://bonobos-prod-s3.imgix.net/products/290504/original/PANT_CHINO-PANT_BWB00809SKH087_4.jpg"
         ],
         "properties": {
-            "country_of_origin": [
-                "Imported"
-            ],
             "Fabric": [
                 "98% Cotton | 2% Lycra; Stretch Cotton Twill"
-            ],
-            "novelty_badge": [
-                "Icon Status"
-            ],
-            "Model Details": [
-                "Model is 6'2\" and wearing a 32x32 in Slim",
-                "Models are 6'2\" wearing 32x32 Slim and 6'6\" wearing 42x32 Straight"
             ],
             "Detailings": [
                 "All-purpose cotton chinos with 2% stretch for extra comfort and mobility.",
@@ -213,7 +196,6 @@
             ]
         },
         "price": {
-            "price_numeric": 99,
             "price": "$99",
             "full_price": "$99",
             "on_sale": false
